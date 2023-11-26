@@ -19,7 +19,7 @@ and then activate Django
 ### Step 3:
 open the folder and then inside the repository folder create myproj folder using 'django-admin
 startproject myproj' command. And then open myproj folder inside the myproj folder we can create
-a app folder called 'myapp' using 'python manage.py startapp [your app name]' command 
+a app folder called 'myapp' using 'python manage.py startapp [your app name]' command
 
 
 
