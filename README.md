@@ -137,7 +137,7 @@ The result is {{result}}
 </html>
 
 ## OUTPUT:
-![output](![serverside output](https://github.com/premsuryas/serversideprocessing/assets/147473858/91ba08ac-5c23-46ef-870b-6f1fecc15e15)
+(![serverside output](https://github.com/premsuryas/serversideprocessing/assets/147473858/91ba08ac-5c23-46ef-870b-6f1fecc15e15)
 
 
 ### Home Page:
